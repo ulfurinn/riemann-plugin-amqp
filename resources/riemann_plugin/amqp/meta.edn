@@ -1,0 +1,4 @@
+{
+	:require riemann-plugin-amqp.core
+	:plugin "amqp"
+}
